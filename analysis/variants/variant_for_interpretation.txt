@@ -1,5 +1,5 @@
 CHROM	POS	ID	GEN[*].GT	ANN[1].GENE	ANN[*].EFFECT
-chr21	32576780	rs541034925	1/1	0/0	C21orf59-TCP10L	frameshift_variant	frameshift_variant	non_coding_transcript_exon_variant	non_coding_transcript_exon_variant MILDLY
+chr21	32576780	rs541034925	1/1	0/0	C21orf59-TCP10L	frameshift_variant	frameshift_variant	non_coding_transcript_exon_variant	non_coding_transcript_exon_variant MILDLY 
 chr21	32631618	rs71640263	1/1	0/0	SYNJ1	frameshift_variant	frameshift_variant	3_prime_UTR_variant	3_prime_UTR_variant 
 chr21	37472761  rs762466544	1/1	0/0	DYRK1A	start_lost	missense_variant	missense_variant	missense_variant	missense_variant	missense_variant	missense_variant
 chr21	33576378	rs34377180;rs397829693	0/1	0/0	SON	frameshift_variant	frameshift_variant	downstream_gene_variant	intron_variant
