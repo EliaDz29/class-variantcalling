@@ -95,9 +95,6 @@ gatk ApplyBQSR \
    -O disease_recal.bam
 
 
-tar -zvcf alignments.tar.gz *_recal.b*
-
-
 ### variant calling
 
 cd /config/workspaces/class-variantcalling
