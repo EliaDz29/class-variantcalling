@@ -159,6 +159,7 @@ cat results_ann.vcf | grep HIGH | perl -nae 'if($F[10]=~/0\/0/ && $F[9]=~/1\/1/)
 cat results_ann.vcf | grep HIGH | perl -nae 'if($F[10]=~/0\/0/ && $F[9]=~/0\/1/){print $_;}' >>filtered_variants.vcf
 
 sudo conda install bioconda::snpsift
+#Inserire password (student)
 
 SnpSift extractFields \
 -s "," -e "." \
